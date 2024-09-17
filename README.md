@@ -7,7 +7,7 @@
 #
 ###  SOBRE
 
-- Diretório contendo desenvolvimento dos exercícios na disciplina de Programação Web III na Etec Cidade Tiradentes em 2023.
+- Diretório contendo desenvolvimento dos exercícios na disciplina de Programação Web III na Etec Cidade Tiradentes em 2022.
 
 #
 ### CONTEUDO ABORDADO
