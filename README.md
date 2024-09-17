@@ -1,4 +1,4 @@
-#<h1 align=center> PROGRAMAÇÃO WEB II</h1>
+<h1 align=center> PROGRAMAÇÃO WEB II</h1>
 
 <p align="center">
   <img src="etec.png" width="500">
